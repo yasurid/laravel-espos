@@ -1,8 +1,8 @@
 # laravel-espos
 ES pos print integrated into the laravel
 
-# Base on Espops Php
-https://github.com/mike42/escpos-php
+### Base on Espps Php
+[ESPos ](https://github.com/mike42/escpos-php)
 
 #### intall 
 
